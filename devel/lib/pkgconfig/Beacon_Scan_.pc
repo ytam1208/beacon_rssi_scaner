@@ -1,0 +1,8 @@
+prefix=/home/cona/beacon/devel
+
+Name: Beacon_Scan_
+Description: Description of Beacon_Scan_
+Version: 0.0.0
+Cflags: -I/home/cona/beacon/src/Beacon_Scan_/include
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs

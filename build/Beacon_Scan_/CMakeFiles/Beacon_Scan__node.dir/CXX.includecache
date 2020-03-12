@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cona/beacon/src/Beacon_Scan_/include/SimpleKalmanFilter.h
+
+/home/cona/beacon/src/Beacon_Scan_/src/SimpleKalmanFilter.cpp
+SimpleKalmanFilter.h
+/home/cona/beacon/src/Beacon_Scan_/src/SimpleKalmanFilter.h
+math.h
+-
+
+/home/cona/beacon/src/Beacon_Scan_/src/scan_one_beacon.cpp
+stdlib.h
+-
+errno.h
+-
+curses.h
+-
+unistd.h
+-
+sys/ioctl.h
+-
+sys/socket.h
+-
+bluetooth/bluetooth.h
+-
+bluetooth/hci.h
+-
+bluetooth/hci_lib.h
+-
+SimpleKalmanFilter.h
+/home/cona/beacon/src/Beacon_Scan_/src/SimpleKalmanFilter.h
+

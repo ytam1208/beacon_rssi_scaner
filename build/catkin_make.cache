@@ -1,0 +1,2 @@
+Beacon_Scan_
+-DCATKIN_DEVEL_PREFIX=/home/cona/beacon/devel -DCMAKE_INSTALL_PREFIX=/home/cona/beacon/install -G Unix Makefiles
